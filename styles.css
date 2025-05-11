@@ -1,0 +1,15 @@
+.div_class { 
+  display: flex;
+  flex-wrap: wrap;
+  width: 960px;
+  margin: 20px auto;
+}
+
+.square {
+  border: 1px solid black;
+  box-sizing: border-box; 
+}
+
+.square:hover {
+  background-color: red;
+}
